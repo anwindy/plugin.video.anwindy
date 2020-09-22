@@ -23,7 +23,7 @@
 <thumbnail>https://i.imgur.com/WWIlKK7.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/TV-Series.txt</externallink>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Youtube</info>
+<info>TV Series</info>
 </channel>
 
 </channels>
