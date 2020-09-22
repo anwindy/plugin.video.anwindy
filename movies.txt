@@ -1,6 +1,7 @@
 <item>
-<title>Fox Movie HD (FptPlay)</title>
-<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8</link>
-<thumbnail>https://i.imgur.com/46uHrPV.png</thumbnail>
-<fanart>https://i.imgur.com/DEuzDpE.jpg</fanart>
+<title>Mulan 2020 - Hoa Mộc Lan (2020)</title>
+<link>https://drive.google.com/file/d/19TN0CuE8AEpLyMd86tgKY-tcLootnHF7/view?usp=sharing</link>
+<thumbnail>https://i.imgur.com/XQY8NTB.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Live TV</info>
 </item>
