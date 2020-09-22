@@ -1,119 +1,12 @@
-﻿<item>
-<title>Tập 1 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/01/16/f488b7be/f488b7be-3ee9-4dfc-9331-72f0b48768dc_5_.m3u8</link>
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>Tập 1 - Handmaidens United 2020</name>
 <thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
+<externallink>http://filmmd1fr.keeng.net/video1/2020/05/01/16/f488b7be/f488b7be-3ee9-4dfc-9331-72f0b48768dc_5_.m3u8</externallink>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Tập 1 - Handmaidens United 2020</info>
-</item>
+</channel>
 
-<item>
-<title>Tập 2 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/01/16/6feece2b/6feece2b-ca7b-4aeb-a73f-ab27d2b5e699_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 2 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 3 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/01/16/1de961d3/1de961d3-a9ea-48d9-825f-5cc26252eb96_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 3 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 4 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/01/16/ad7a6386/ad7a6386-02d0-435b-9495-f3debe5b7385_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 4 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 5 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/01/16/f6df2618/f6df2618-00c3-4835-a33d-58575f77f374_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 5 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 6 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/19b5763b/19b5763b-b2e4-4974-a83f-c831b814a9d5_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 6 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 7 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/8381f9ba/8381f9ba-fe12-4632-a1ce-a1dd93ecdaed_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 7 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 8 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/2e8d31bd/2e8d31bd-bef0-493b-b145-1678eee47127_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 8 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 9 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/36ba0a93/36ba0a93-29fa-467c-b1b5-c6161478f0cc_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 9 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 10 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/aa9e9071/aa9e9071-00e2-4c6e-8601-779cfd3f3544_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 10 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 11 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/1e3b3b35/1e3b3b35-da8b-4116-a16a-fd555fd20d5a_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 11 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 12 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/28054724/28054724-e49f-4ce6-a6d4-9dfebc53481f_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 12 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 13 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/54c7b5a6/54c7b5a6-4d4d-48b0-944c-468e18378b59_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 13 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 14 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/2fcd7122/2fcd7122-2ef5-448d-a391-62e4fef56e8f_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 14 - Handmaidens United 2020</info>
-</item>
-
-<item>
-<title>Tập 15 - Handmaidens United 2020</title>
-<link>http://filmmd1fr.keeng.net/video1/2020/05/06/20/5184276a/5184276a-3ec9-426a-9689-09c5af154a85_5_.m3u8</link>
-<thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Tập 15 - Handmaidens United 2020</info>
-</item>
+</channels>
