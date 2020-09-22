@@ -5,3 +5,11 @@
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Xoay quanh Joon, chàng cựu điệp viên của NIS, "dứt áo ra đi" khỏi tổ chức, ngày đêm cống hiến với sở thích truyện tranh. Vòng xoáy "cơm áo gạo tiền" nào phải dễ, truyện anh sáng tác, chẳng mấy ai quan tâm, cho đến khi, anh tự kể lại trải nghiệm điệp viên của mình, kể chậm rãi, từng từ một, lượt view tăng lên, nhưng kéo theo đó, là bao rắc rối ập đến khi thông tin mật đều được phơi bày.</info>
 </item>
+
+<item>
+<title>All the Bright Places 2020 - Sát Thủ Vô Cùng Cực (2020)</title>
+<link>http://download014.fshare.vn/dl/b9gGYi6+RpaJuAjh0U1lQXTOopd3mGW7AUhGmIgyQFGxoiaadmQza-VQclZO6ZqaA68+U9c+JSX+a365/Hitman.Agent.Jun.2020.VIE.1080p.HDRip.DD2.0.H.264-NonDRM-AnWindy.mkv</link>
+<thumbnail>https://i.imgur.com/VzGkgV0.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Phải đối mặt với rắc rối cá nhân, hai thiếu niên có mối gắn kết mạnh mẽ khi họ bắt đầu cuộc hành trình đầy cảm xúc nhằm ghi dấu những kỳ quan ở Indiana.Bộ phim dựa trên tiểu thuyết cùng tên bán chạy nhất của nữ nhà văn Jennifer Niven</info>
+</item>
