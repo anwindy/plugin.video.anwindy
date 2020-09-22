@@ -13,7 +13,7 @@
 <channel>
 <name>Of Greed And Ants 2020 - Đồng Tiền Có Tội (2020)</name>
 <thumbnail>https://i.imgur.com/OEx5uQK.jpg</thumbnail>
-<externallink>/</externallink>
+<externallink>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/TV-Series/Of-Greed-And-Ants-2020-TVB/home.txt</externallink>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Đồng Tiền Có Tội kể về câu chuyện cuộc đời của Wing Muk-tung, một doanh nhân phản bội bạn bè vì lợi ích tài chính.</info>
 </channel>
