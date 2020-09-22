@@ -1,62 +1,62 @@
 <item>
 <title>VTV1 HD</title>
-<link>https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA0NzEsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjVlNzRjOWQ4ZDVlNjI5YjQ4ZTFhOGZkMjUyMTVlMmFkIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI2ODcxLCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<link></link>
 <thumbnail>https://i.imgur.com/XQY8NTB.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV2 HD</title>
-<link>https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA0MDksICJyZXNvdXJjZV9pZCI6ICJ2dHYyXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiMGFjNTM3NWRiMTJhMDUxYWViYjMzZDk4NjExMDY3YjkiLCAidmFsaWRfbWludXRlcyI6IDE2MDA3MjY4MDksICJybWlwIjogIjEyMy4yMS4xNTEuMTM4In0=</link>
+<link></link>
 <thumbnail>https://i.imgur.com/taeZ0zp.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV3 HD</title>
-<link>https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA0NzUsICJyZXNvdXJjZV9pZCI6ICJ2dHYzaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjI5ZWY5NjBjZmExMmJlYzg3Mjc5ZmIzOTFkYTQ1NGNhIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI2ODc1LCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<link></link>
 <thumbnail>https://i.imgur.com/Bkkg2VD.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV4 HD</title>
-<link>https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE1OTAsICJyZXNvdXJjZV9pZCI6ICJ2dHY0X2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICJhYmJkZTRlNDQxMGIwOTE1OTcxNzQ5YTMyNDAwNjAyOCIsICJ2YWxpZF9taW51dGVzIjogMTYwMDcyNzk5MCwgInJtaXAiOiAiMTIzLjIxLjE1MS4xMzgifQ==</link>
+<link></link>
 <thumbnail>https://i.imgur.com/sE19fWJ.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV5 HD</title>
-<link>https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE2NDksICJyZXNvdXJjZV9pZCI6ICJ2dHY1aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjI3OWE4OWFiNTY0ZGI1ZGI1ZjJjMmRlMDZjY2YyYzM5IiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI4MDQ5LCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<link></link>
 <thumbnail>https://i.imgur.com/jXFdE9q.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV6 HD</title>
-<link>https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE3ODksICJyZXNvdXJjZV9pZCI6ICJ2dHY2aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjRkZmQ4ZmQ0NDRjOWQ3YmY4NzQ0ZjQ4MTZlMDdjOTcyIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI4MTg5LCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<link></link>
 <thumbnail>https://i.imgur.com/H4YUFlR.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV7 HD</title>
-<link>https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA3NTksICJyZXNvdXJjZV9pZCI6ICJ2dHY3aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjNlMGRjNzM3ZmQ3OWIxZWZkN2RiNjRhMDJmNmJjM2E1IiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI3MTU5LCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<link></link>
 <thumbnail>https://i.imgur.com/RUyQCyw.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV8 HD</title>
-<link>https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE4NTIsICJyZXNvdXJjZV9pZCI6ICJ2dHY4aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjMzMmY4NDdlYTFiMDRjNmFhN2NjNmJjYjQyZTkyNTRhIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI4MjUyLCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<link></link>
 <thumbnail>https://i.imgur.com/Nu9SN7C.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV9 HD</title>
-<link>https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE4ODEsICJyZXNvdXJjZV9pZCI6ICJ2dHY5X2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICJkOTE0NzMyNGNlYTQ1MjcwNmY1MTBhNzNhYTZkNjFhMiIsICJ2YWxpZF9taW51dGVzIjogMTYwMDcyODI4MSwgInJtaXAiOiAiMTIzLjIxLjE1MS4xMzgifQ==</link>
+<link></link>
 <thumbnail>https://i.imgur.com/5jRUR9N.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
@@ -98,7 +98,7 @@
 </item>
 
 <item>
-<title>Vietnam Journey HD/title>
+<title>Vietnam Journey HD</title>
 <link>http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8</link>
 <thumbnail>https://i.imgur.com/DYMYDVk.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
@@ -113,7 +113,7 @@
 
 <item>
 <title>VTC2 HD</title>
-<link>https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA5MjEsICJyZXNvdXJjZV9pZCI6ICJ2dGMyX2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICI1MjZmNWM1Y2E1ZDQ3MzBmNjc1MzQzMzcxZmM4MjJhOCIsICJ2YWxpZF9taW51dGVzIjogMTYwMDcyNzMyMSwgInJtaXAiOiAiMTIzLjIxLjE1MS4xMzgifQ==</link>
+<link></link>
 <thumbnail>https://i.imgur.com/xLEiJfk.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
@@ -128,13 +128,13 @@
 <item>
 <title>HTV2 HD</title>
 <link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8</link>
-<thumbnail>hhttps://i.imgur.com/WQHqOFj.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/WQHqOFj.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>HTV3</title>
-<link>https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDIxMjIsICJyZXNvdXJjZV9pZCI6ICJodHYzXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNTQyY2VkYTRmYTVmMDY4Y2I2ODc1ZmU4NzI3YjU5ZWMiLCAidmFsaWRfbWludXRlcyI6IDE2MDA3Mjg1MjIsICJybWlwIjogIjEyMy4yMS4xNTEuMTM4In0=</link>
+<link></link>
 <thumbnail>https://i.imgur.com/cBJo8IV.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
@@ -240,7 +240,7 @@
 
 <item>
 <title>VTVcab2 - Phim Việt</title>
-<link>https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_w383674_b2692000.m3u8?uid=v2a45474v23474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1552149758&mytokenendtime=1552157258&mytokenhash=foTxVtf7w96VJqe2cwKoEHzzlqeqTHaFfnSfmGqs-ic%3D</link>
+<link></link>
 <thumbnail>https://i.imgur.com/1Y9Plj3.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
@@ -352,13 +352,6 @@
 </item>
 
 <item>
-<title>SCTV 17 HD - Ssport</title>
-<link>https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
-<thumbnail>https://i.imgur.com/lsiants.png</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-</item>
-
-<item>
 <title>SCTV 18 HD - Kênh 18</title>
 <link>https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV18_HD.smil/chunklist_w1089724913_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
 <thumbnail>https://i.imgur.com/fwzFmYq.png</thumbnail>
@@ -383,13 +376,6 @@
 <title>SCTV HD Phim Tổng Hợp</title>
 <link>https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVHDPhimTH.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
 <thumbnail>https://i.imgur.com/vgYx8Z9.png</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-</item>
-
-<item>
-<title>SCTV22 HD - Ssport 1</title>
-<link>https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
-<thumbnail>https://i.imgur.com/VVOzOPy.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
@@ -430,7 +416,7 @@
 
 <item>
 <title>Vĩnh Long 3 HD</title>
-<link>https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2MzkxMzAsICJyZXNvdXJjZV9pZCI6ICJ2aW5obG9uZzNfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImE4Mzk5YjljYzY2YWVmODY0ZTk3YWQ5YTYwMjUzNWVlIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI1NTMwLCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<link></link>
 <thumbnail>https://i.imgur.com/bpf9brq.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
@@ -444,7 +430,7 @@
 
 <item>
 <title>Đà Nẵng 1 HD</title>
-<link>http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8</link>
+<link></link>
 <thumbnail>https://i.imgur.com/CeZp8Fs.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
