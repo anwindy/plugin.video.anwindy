@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Live TV</name>
+<thumbnail>https://i.imgur.com/uwKa3hA.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/live.txt</externallink>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Live TV</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail>https://i.imgur.com/mfYEmbA.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/movies.txt</externallink>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Movies</info>
+</channel>
+
+<channel>
+<name>TV Series</name>
+<thumbnail>https://i.imgur.com/WWIlKK7.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/TV-Series.txt</externallink>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>TV Series</info>
+</channel>
+
+</channels>
