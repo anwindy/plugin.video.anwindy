@@ -5,7 +5,7 @@
 <channel>
 <name>Live TV</name>
 <thumbnail>https://i.imgur.com/uwKa3hA.png</thumbnail>
-<externallink>https://docs.google.com/document/u/1/d/e/2PACX-1vT43P5G1WyIxlKyQr_yjZPhW7A4O4TyNJjz2qFXxuUOo7yGaHK46XSH4xA3sjvtRztokLYtC4wVNbik/pub</externallink>
+<externallink>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/live.txt</externallink>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Live TV</info>
 </channel>
@@ -13,15 +13,15 @@
 <channel>
 <name>Movies</name>
 <thumbnail>https://i.imgur.com/mfYEmbA.png</thumbnail>
-<externallink>https://bit.ly/3hxk3l9</externallink>
+<externallink>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/movies.txt</externallink>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Movies</info>
 </channel>
 
 <channel>
-<name>Youtube</name>
-<thumbnail>https://i.imgur.com/VTkvCGM.png</thumbnail>
-<externallink>https://bit.ly/3khTr9F</externallink>
+<name>TV Series</name>
+<thumbnail>https://i.imgur.com/WWIlKK7.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/TV-Series.txt</externallink>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Youtube</info>
 </channel>
