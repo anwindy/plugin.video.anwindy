@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Live TV</name>
+<thumbnail>https://i.imgur.com/uwKa3hA.png</thumbnail>
+<externallink>https://bit.ly/3klQZPr</externallink>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Live TV</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail>https://i.imgur.com/mfYEmbA.png</thumbnail>
+<externallink>https://bit.ly/3hxk3l9</externallink>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Movies</info>
+</channel>
+
+<channel>
+<name>Youtube</name>
+<thumbnail>https://i.imgur.com/VTkvCGM.png</thumbnail>
+<externallink>https://bit.ly/3khTr9F</externallink>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Youtube</info>
+</channel>
+
+</channels>
