@@ -5,7 +5,7 @@
 <channel>
 <name>Live TV</name>
 <thumbnail>https://i.imgur.com/uwKa3hA.png</thumbnail>
-<externallink>https://bit.ly/3klQZPr</externallink>
+<externallink>https://docs.google.com/document/u/1/d/e/2PACX-1vT43P5G1WyIxlKyQr_yjZPhW7A4O4TyNJjz2qFXxuUOo7yGaHK46XSH4xA3sjvtRztokLYtC4wVNbik/pub</externallink>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Live TV</info>
 </channel>
