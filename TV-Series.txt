@@ -1,6 +1,6 @@
 <item>
 <title>Handmaidens United 2020 - Nha Hoàn Liên Minh (2020) (15/15) </title>
-<link>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/TV-Series/Handmaidens%20United%202020%20TVB/EP/home-ep.txt</link>
+<link>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/TV-Series/Handmaidens-United-2020-TVB/S1/home.txt</link>
 <thumbnail>https://i.imgur.com/lk5pwW4.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Nội dung của phim xoay quanh cô nàng Ông Nguyệt Doanh (Huỳnh Tâm Dĩnh), một người có xuất thân nghèo khó, phải vào nhà họ Cầu để giúp việc. Lớn lên, cô trở thành một nha hoàn xuất sắc, nên được gia chủ là Cầu Chính (Trịnh Tử Thành) rất mực tin tưởng. Nhưng, Doanh chỉ một lòng hướng đến ý trung nhân của mình chính là con trai của ông Chính. Cuộc sống êm đềm của Doanh bị xáo trộn khi Cầu gia tuyển thêm một nha hoàn mới tên là Nguyệt Kiểu (Thang Lạc Văn).Thực chất, Kiểu là kỹ nữ, được bà hai Thượng Quan Vân Anh (Trương Tuệ Nghi) đưa vào để đối phó với bà cả Quan Chi Bội (Quách Thiếu Vân). Không lâu sau, Doanh phát hiện Kiểu có nỗi khổ tâm riêng khi người Kiều yêu thương là Hữu Vi (Tạ Đông Mẫn) đã bị một tiểu thư danh giá quyến rũ. Cô gái ấy và Vi còn hẹn ước sẽ thành thân nếu chàng đậu trạng nguyên. Bản thân Doanh cũng lo lắng nếu Tiến đỗ đạt. Do đó, Doanh bắt tay với Kiểu, tìm mọi cách ngăn cản Tiến và Vi lên kinh ứng thí.</info>
