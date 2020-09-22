@@ -1,0 +1,576 @@
+<item>
+<title>VTV1 HD</title>
+<link>https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA0NzEsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjVlNzRjOWQ4ZDVlNjI5YjQ4ZTFhOGZkMjUyMTVlMmFkIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI2ODcxLCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<thumbnail>https://i.imgur.com/XQY8NTB.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTV2 HD</title>
+<link>https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA0MDksICJyZXNvdXJjZV9pZCI6ICJ2dHYyXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiMGFjNTM3NWRiMTJhMDUxYWViYjMzZDk4NjExMDY3YjkiLCAidmFsaWRfbWludXRlcyI6IDE2MDA3MjY4MDksICJybWlwIjogIjEyMy4yMS4xNTEuMTM4In0=</link>
+<thumbnail>https://i.imgur.com/taeZ0zp.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTV3 HD</title>
+<link>https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA0NzUsICJyZXNvdXJjZV9pZCI6ICJ2dHYzaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjI5ZWY5NjBjZmExMmJlYzg3Mjc5ZmIzOTFkYTQ1NGNhIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI2ODc1LCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<thumbnail>https://i.imgur.com/Bkkg2VD.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTV4 HD</title>
+<link>https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE1OTAsICJyZXNvdXJjZV9pZCI6ICJ2dHY0X2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICJhYmJkZTRlNDQxMGIwOTE1OTcxNzQ5YTMyNDAwNjAyOCIsICJ2YWxpZF9taW51dGVzIjogMTYwMDcyNzk5MCwgInJtaXAiOiAiMTIzLjIxLjE1MS4xMzgifQ==</link>
+<thumbnail>https://i.imgur.com/sE19fWJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTV5 HD</title>
+<link>https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE2NDksICJyZXNvdXJjZV9pZCI6ICJ2dHY1aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjI3OWE4OWFiNTY0ZGI1ZGI1ZjJjMmRlMDZjY2YyYzM5IiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI4MDQ5LCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<thumbnail>https://i.imgur.com/jXFdE9q.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTV6 HD</title>
+<link>https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE3ODksICJyZXNvdXJjZV9pZCI6ICJ2dHY2aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjRkZmQ4ZmQ0NDRjOWQ3YmY4NzQ0ZjQ4MTZlMDdjOTcyIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI4MTg5LCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<thumbnail>https://i.imgur.com/H4YUFlR.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTV7 HD</title>
+<link>https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA3NTksICJyZXNvdXJjZV9pZCI6ICJ2dHY3aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjNlMGRjNzM3ZmQ3OWIxZWZkN2RiNjRhMDJmNmJjM2E1IiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI3MTU5LCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<thumbnail>https://i.imgur.com/RUyQCyw.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTV8 HD</title>
+<link>https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE4NTIsICJyZXNvdXJjZV9pZCI6ICJ2dHY4aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjMzMmY4NDdlYTFiMDRjNmFhN2NjNmJjYjQyZTkyNTRhIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI4MjUyLCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<thumbnail>https://i.imgur.com/Nu9SN7C.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTV9 HD</title>
+<link>https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDE4ODEsICJyZXNvdXJjZV9pZCI6ICJ2dHY5X2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICJkOTE0NzMyNGNlYTQ1MjcwNmY1MTBhNzNhYTZkNjFhMiIsICJ2YWxpZF9taW51dGVzIjogMTYwMDcyODI4MSwgInJtaXAiOiAiMTIzLjIxLjE1MS4xMzgifQ==</link>
+<thumbnail>https://i.imgur.com/5jRUR9N.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+
+<item>
+<title>Vnews</title>
+<link>http://live.vnanet.vn/720P/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/AAWIPHz.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Nhân Dân TV</title>
+<link>https://video.nhandan.thienvietjsc.net/live/nhandan720/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/IBwNP1p.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>QUỐC HỘI</title>
+<link>http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8</link>
+<thumbnail>https://imgur.com/G154n6j.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>ANTV</title>
+<link>http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8</link>
+<thumbnail>https://imgur.com/kHZtzZw.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Quốc Phòng VN HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/chunks.m3u8</link>
+<thumbnail>https://imgur.com/xtA4AlV.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Vietnam Journey HD/title>
+<link>http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8</link>
+<thumbnail>https://i.imgur.com/DYMYDVk.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTC1 HD</title>
+<link>http://media.kythuatvov.vn:1936/live/VTC1.HD/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/PKB0lgq.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTC2 HD</title>
+<link>https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDA5MjEsICJyZXNvdXJjZV9pZCI6ICJ2dGMyX2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICI1MjZmNWM1Y2E1ZDQ3MzBmNjc1MzQzMzcxZmM4MjJhOCIsICJ2YWxpZF9taW51dGVzIjogMTYwMDcyNzMyMSwgInJtaXAiOiAiMTIzLjIxLjE1MS4xMzgifQ==</link>
+<thumbnail>https://i.imgur.com/xLEiJfk.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTC3 HD</title>
+<link>http://media.kythuatvov.vn:1936/live/VTC3.HD/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/o0qjJIr.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTV2 HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8</link>
+<thumbnail>hhttps://i.imgur.com/WQHqOFj.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTV3</title>
+<link>https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2NDIxMjIsICJyZXNvdXJjZV9pZCI6ICJodHYzXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNTQyY2VkYTRmYTVmMDY4Y2I2ODc1ZmU4NzI3YjU5ZWMiLCAidmFsaWRfbWludXRlcyI6IDE2MDA3Mjg1MjIsICJybWlwIjogIjEyMy4yMS4xNTEuMTM4In0=</link>
+<thumbnail>https://i.imgur.com/cBJo8IV.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTV7 HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/lj72rHM.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTV9 HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/lVkFTxB.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTVC Thuần Việt SD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/jHeoqG8.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTVC Thuần Việt HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/nP4SqGZ.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTVC Phụ Nữ</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/HRNmZdU.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTVC Phim HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/pAqskAN.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTVC Ca Nhạc</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/PgOD7m8.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTVC Du Lịch & Cuộc Sống</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/qpMwhg7.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTVC Gia Đình HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/aFjXzhar.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+
+<item>
+<title>HTVC Thể Thao HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/gXSu7YV.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>HTVC Plus HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Tkjs3C5.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>FBNC HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/JSJUIl4.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VITV</title>
+<link>http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8</link>
+<thumbnail>https://i.imgur.com/B8A1F4j.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTVcab1 - Vie Giải Trí</title>
+<link>https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist_w736153104_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/VhSwv6O.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTVcab2 - Phim Việt</title>
+<link>https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_w383674_b2692000.m3u8?uid=v2a45474v23474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1552149758&mytokenendtime=1552157258&mytokenhash=foTxVtf7w96VJqe2cwKoEHzzlqeqTHaFfnSfmGqs-ic%3D</link>
+<thumbnail>https://i.imgur.com/1Y9Plj3.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTVcab16 - Bóng Đá TV</title>
+<link>https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w736153104_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/2qVohfX.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV1 HD - Hài</title>
+<link>https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_Hai.smil/chunklist_w83587666_b2692000.m3u8</link>
+<thumbnail>https://i.imgur.com/cDWsc9m.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV2 HD - AMC</title>
+<link>https://vtsstr6.tv24.vn/live/_definst_/smil:sctv2_HD.smil/chunklist_w77415307_b2692000.m3u8</link>
+<thumbnail>https://i.imgur.com/OCRq9G5.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+
+<item>
+<title>SCTV3 HD - See TV</title>
+<link>https://vtsstr6.tv24.vn/live/_definst_/smil:SCTVHDThieunhi.smil/chunklist_w383674_b2692000.m3u8?uid=v2a45474v23474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1552149758&mytokenendtime=1552157258&mytokenhash=foTxVtf7w96VJqe2cwKoEHzzlqeqTHaFfnSfmGqs-ic%3D</link>
+<thumbnail>https://i.imgur.com/bAdTKwm.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV4 HD - Giải Trí</title>
+<link>https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV_HD_GiaiTri.smil/chunklist_w527648452_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/3rW9irW.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV6 HD - SNTV</title>
+<link>https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV6HD.smil/chunklist_w619062875_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/Wuz2Rtr.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV7 HD - SHOW</title>
+<link>https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV_HD_SanKhau.smil/chunklist_w1410602242_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/gltcTtR.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV9 HD - Phim TVB</title>
+<link>https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV_HD_PhimChauA.smil/chunklist_w139057443_b1692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/rEH8X4j.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV11 HD - TV STAR</title>
+<link>https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTVVHNT_HD.smil/chunklist_w527911234_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/UrkjeEG.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV12 HD - Du Lịch</title>
+<link>https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV12_HD.smil/chunklist_w736153104_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/Ooaco6v.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV13 HD - Lady TV</title>
+<link>https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTVHDPhunuGiadinh.smil/chunklist_w84697128_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/gRxPHcG.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV14 HD - Phim Việt</title>
+<link>https://vtsstr1.tv24.vn/live/_definst_/smil:SCTV_HD_PhimViet.smil/chunklist_w77415307_b2692000.m3u8</link>
+<thumbnail>https://i.imgur.com/JrDBBKT.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV15 HD - Thể Thao</title>
+<link>https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_TheThao.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/WoKsIMw.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV 16 HD - Phim Nước Ngoài Đặc Sắc</title>
+<link>https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV_HD_phimnuocngoaidacsac.smil/chunklist_w83587666_b2692000.m3u8</link>
+<thumbnail>https://i.imgur.com/hT5HZsy.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV 17 HD - Ssport</title>
+<link>https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/lsiants.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV 17 HD - Ssport</title>
+<link>https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/lsiants.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV 18 HD - Kênh 18</title>
+<link>https://vtsstr3.tv24.vn:443/elive1/_definst_/smil:SCTV18_HD.smil/chunklist_w1089724913_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/fwzFmYq.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV 19 HD - Channel T</title>
+<link>https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV19_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/K6wqrEE.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV 20 HD - Ca Nhạc</title>
+<link>https://vtsstr3.tv24.vn:443/elive/_definst_/smil:SCTV20_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/whpips4.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV HD Phim Tổng Hợp</title>
+<link>https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTVHDPhimTH.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/vgYx8Z9.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV22 HD - Ssport 1</title>
+<link>https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/VVOzOPy.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>SCTV22 HD - Ssport 1</title>
+<link>https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=</link>
+<thumbnail>https://i.imgur.com/VVOzOPy.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Hà Nội 1 HD</title>
+<link>http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8</link>
+<thumbnail>https://i.imgur.com/9EEr3wA.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Hà Nội 2 HD</title>
+<link>http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8</link>
+<thumbnail>https://i.imgur.com/0U8MvXp.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Vĩnh Long 1 HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/QDRQDyw.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Vĩnh Long 2 HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/sEX0SRS.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Vĩnh Long 3 HD</title>
+<link>https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDA2MzkxMzAsICJyZXNvdXJjZV9pZCI6ICJ2aW5obG9uZzNfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImE4Mzk5YjljYzY2YWVmODY0ZTk3YWQ5YTYwMjUzNWVlIiwgInZhbGlkX21pbnV0ZXMiOiAxNjAwNzI1NTMwLCAicm1pcCI6ICIxMjMuMjEuMTUxLjEzOCJ9</link>
+<thumbnail>https://i.imgur.com/bpf9brq.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Bình Dương 1 HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BINHDUONG1-SD-ABR/HTV-ABR/BINHDUONG1-SD-720p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/9hGfQAP.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Đà Nẵng 1 HD</title>
+<link>http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/CeZp8Fs.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Đà Nẵng 2 HD</title>
+<link>http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8</link>
+<thumbnail>https://i.imgur.com/cHiJBUb.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Fashion TV</title>
+<link>https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/Ju3QEWD.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/dpGiaH5.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>NHK World Japan</title>
+<link>https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8</link>
+<thumbnail>https://i.imgur.com/hUyQXOC.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>FOX HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/NW7ZImg.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>FOX FAMILY MOVIES HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/rrihkhj.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Fox Movie</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/46uHrPV.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Paramount HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8</link>
+<thumbnail>https://i.imgur.com/CDe0W1b.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Asian Food Network HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/OlnPF71.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Da vinci HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/lQBuHLy.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>BBC World News</title>
+<link>http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8</link>
+<thumbnail>https://i.imgur.com/1r4LUvC.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>DW News</title>
+<link>http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8</link>
+<thumbnail>https://i.imgur.com/FrKlwzU.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>TV5 MONDE</title>
+<link>https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8</link>
+<thumbnail>https://i.imgur.com/Ru0TzbP.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>France 24</title>
+<link>http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8</link>
+<thumbnail>https://i.imgur.com/zdze6Iq.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>RT News</title>
+<link>http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live</link>
+<thumbnail>https://i.imgur.com/3E4KGqG.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>ARIRANG HD</title>
+<link>http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/qU34qm6.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Bloomberg TV Asia HD</title>
+<link>https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8</link>
+<thumbnail>https://i.imgur.com/5cAToRS.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>Channel V HD</title>
+<link>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8</link>
+<thumbnail>https://i.imgur.com/2mDvLqZ.png</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
