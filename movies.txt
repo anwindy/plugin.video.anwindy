@@ -13,3 +13,11 @@
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Phải đối mặt với rắc rối cá nhân, hai thiếu niên có mối gắn kết mạnh mẽ khi họ bắt đầu cuộc hành trình đầy cảm xúc nhằm ghi dấu những kỳ quan ở Indiana.Bộ phim dựa trên tiểu thuyết cùng tên bán chạy nhất của nữ nhà văn Jennifer Niven</info>
 </item>
+
+<item>
+<title>Underwater 2020 - Kẻ Săn Mồi Đáy Biển (2020)</title>
+<link></link>
+<thumbnail>https://i.imgur.com/C5u41jU.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Phim xoay quanh một nhóm kĩ sư dầu khí làm việc tại dàn khoan, trong một nhiêm vụ khắc phục sự cố tại chân của dàn khoan ở đáy biển, nhóm kĩ sư phát hiện tính mạng của bản thân bị đe doạ bởi một sinh vật bí ẩn. Sinh vật này là gì?</info>
+</item>
