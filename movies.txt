@@ -29,3 +29,11 @@
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Bộ phim dựa trên tác phẩm văn học nổi tiếng cùng tên của Jack London kể về một con chó tên Buck đã được thuần hóa, cưng chiều. Nhưng một loạt các sự kiện xảy ra khi Buck bị bắt khỏi trang trại để trở thành chó kéo xe ở khu vực Alaska lạnh giá, trong giai đoạn mọi người đổ xô đi tìm vàng thế kỷ 19, thiên nhiên nguyên thủy đã đánh thức bản năng của Buck. Buck trở về rừng và sống chung với bầy sói trở lại cuộc sống hoang dã.</info>
 </item>
+
+<item>
+<title>The Gentlemen 2019 - Quý Ông Thế Giới Ngầm (2020)</title>
+<link>https://srv-file9.gofile.io/downloadStore/srv-store4/GDHSj2/The.Gentlemen.2019.VIE.1080p.BluRay.H264.AAC-RARBG-AnWindy.mkv</link>
+<thumbnail>https://i.imgur.com/eotCQWA.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Phim xoay quanh Mickey Pearson - do một trong những quý ông quyến rũ bậc nhất Hollywood, chủ nhân tượng vàng Oscars Matthew McConaughey thủ vai - vốn là ông trùm đình đám của thế giới ngầm, đang muốn “sang nhượng” lại đế chế bạc tỉ của mình để nghỉ hưu sớm. Tuy nhiên, kế hoạch không diễn ra suôn sẻ như dự tính, gia đình và toàn bộ "công ty" của Mickey trở thành mục tiêu tấn công của một ông trùm khác và tay sai thân cận của lão là Dry Eye - do “trai đẹp siêu giàu châu Á” Henry Golding thủ vai. Đồng thời, quý ông Mickey còn phải đối mặt với mối nguy khác đến từ Fletcher, “tài tử Love Actually” Hugh Grant đảm nhận - thám tử tư kiêm nhà văn đang điều tra và tống tiền Mickey, đe dọa phanh phui đế chế bạc tỉ Pearson với báo chí.</info>
+</item>
