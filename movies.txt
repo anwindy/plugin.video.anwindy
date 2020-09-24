@@ -37,3 +37,11 @@
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Phim xoay quanh Mickey Pearson - do một trong những quý ông quyến rũ bậc nhất Hollywood, chủ nhân tượng vàng Oscars Matthew McConaughey thủ vai - vốn là ông trùm đình đám của thế giới ngầm, đang muốn “sang nhượng” lại đế chế bạc tỉ của mình để nghỉ hưu sớm. Tuy nhiên, kế hoạch không diễn ra suôn sẻ như dự tính, gia đình và toàn bộ "công ty" của Mickey trở thành mục tiêu tấn công của một ông trùm khác và tay sai thân cận của lão là Dry Eye - do “trai đẹp siêu giàu châu Á” Henry Golding thủ vai. Đồng thời, quý ông Mickey còn phải đối mặt với mối nguy khác đến từ Fletcher, “tài tử Love Actually” Hugh Grant đảm nhận - thám tử tư kiêm nhà văn đang điều tra và tống tiền Mickey, đe dọa phanh phui đế chế bạc tỉ Pearson với báo chí.</info>
 </item>
+
+<item>
+<title>The Grudge 2020 - Lời Nguyền (2020)</title>
+<link>https://srv-file20.gofile.io/downloadStore/srv-store1/4Mm26J/The.Grudge.2020.VIE.1080p.BluRay.H264.AC-3-RARBG-AnWindy.mkv</link>
+<thumbnail>https://i.imgur.com/hKhb9dY.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Một ác ma đầy oán hận nguyền rủa cái chết khủng khiếp nhất đền bất kỳ kẻ nào tiến vào ngôi nhà của nó.</info>
+</item>
