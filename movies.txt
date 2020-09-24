@@ -45,3 +45,11 @@
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Một ác ma đầy oán hận nguyền rủa cái chết khủng khiếp nhất đền bất kỳ kẻ nào tiến vào ngôi nhà của nó.</info>
 </item>
+
+<item>
+<title>The Beast 2019 - Quái Vật (2019)</title>
+<link>https://srv-file20.gofile.io/downloadStore/srv-store4/1ptYNk/The.Beast.2019.VIE.1080p.BluRay.H264.AAC-VXT-AnWindy.mkv</link>
+<thumbnail>https://i.imgur.com/Uz5TGlf.jpg</thumbnail>
+<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+<info>Để có được manh mối quan trọng cho một vụ án giết người thảm khốc, cảnh sát Jeong Han Soo đã phải chấp nhận che giấu một vụ giết người khác. Đối thủ của anh là Han Min Tae đã đánh hơi được việc này và điều tra Jeong Han Soo tới cùng.</info>
+</item>
