@@ -1,4 +1,12 @@
 <item>
+<title>Dolittle 2020 - Bác sĩ Dolittle: Chuyến phiêu lưu thần thoại (2020)</title>
+<link>https://upload.anwindy.com/01102020/06/Dolittle.2020.1080p.BluRay.H264.AAC-RARBG-AnWindy.mkv</link>
+<thumbnail>https://i.imgur.com/9NBiUPT.jpg</thumbnail>
+<fanart>https://i.imgur.com/9NBiUPT.jpg</fanart>
+<info>Một vị bác sĩ nổi tiếng phát hiện ra mình có khả năng nói chuyện với động vật. Năng lực này sẽ giúp ích gì cho cuộc sống của anh? Anh khỉ đột hay lo lắng, cô vịt nhiệt tình nhưng ngốc ngếch, cặp đôi đà điểu hoài nghi hay cãi cùng chú gấu bắc cực lạc quan và một bác vẹt đầu đàn sẽ được dàn diễn viên nổi tiếng Rami Malek, Emma Thompson và Tom Holland thể hiện ra sao? Phiên bản mới của bác sĩ Dolittle nổi tiếng sẽ do nam tài tử Robert Downey Jr. đảm nhận.</info>
+</item>
+
+<item>
 <title>To All the Boys 2: P.S. I Still Love You 2020 - Những chàng trai năm ấy - Tái bút: Em vẫn yêu anh (2020)</title>
 <link>https://upload.anwindy.com/01102020/05/To.All.the.Boys.P.S.I.Still.Love.You.2020.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv</link>
 <thumbnail>https://i.imgur.com/PZkyjnE.jpg</thumbnail>
@@ -44,14 +52,6 @@
 <thumbnail>https://i.imgur.com/XQu8uCR.jpg</thumbnail>
 <fanart>https://i.imgur.com/XQu8uCR.jpg</fanart>
 <info>Sát thủ Ava hoạt động cho một tổ chức đen chuyên thực hiện các vụ truy sát theo mệnh lệnh. Lợi dụng phi vụ tại Ả-rập-xê-út, tổ chức trao mật mã giả nhằm thủ tiêu Ava. Cô buộc phải tự chiến đấu và phản bội tổ chức trước nguy hiểm sống còn.</info>
-</item>
-
-<item>
-<title>Dolittle 2020 - Bác sĩ Dolittle: Chuyến phiêu lưu thần thoại (2020)</title>
-<link></link>
-<thumbnail>https://i.imgur.com/9NBiUPT.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Một vị bác sĩ nổi tiếng phát hiện ra mình có khả năng nói chuyện với động vật. Năng lực này sẽ giúp ích gì cho cuộc sống của anh? Anh khỉ đột hay lo lắng, cô vịt nhiệt tình nhưng ngốc ngếch, cặp đôi đà điểu hoài nghi hay cãi cùng chú gấu bắc cực lạc quan và một bác vẹt đầu đàn sẽ được dàn diễn viên nổi tiếng Rami Malek, Emma Thompson và Tom Holland thể hiện ra sao? Phiên bản mới của bác sĩ Dolittle nổi tiếng sẽ do nam tài tử Robert Downey Jr. đảm nhận.</info>
 </item>
 
 <item>
