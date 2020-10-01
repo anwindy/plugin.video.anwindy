@@ -16,7 +16,7 @@
 <externallink>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/movies.txt</externallink>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Movies
-[UPDATE 01.10.2020] Cập nhật link mới</info>
+[UPDATE 01.10.2020] Cập nhật link mới và Bổ sung một số bộ phim</info>
 </channel>
 
 <channel>
