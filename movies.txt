@@ -1,4 +1,12 @@
 <item>
+<title>Foxtrot Six 2019 - Sáu Chiến Binh (2020)</title>
+<link>https://upload.anwindy.com/01102020/10/Foxtrot%20Six.2019.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG-AnWindy.mkv</link>
+<thumbnail>https://i.imgur.com/O4P8dGD.jpg</thumbnail>
+<fanart>https://i.imgur.com/O4P8dGD.jpg</fanart>
+<info>Sáu Chiến Binh một cựu lính thủy và những người bạn của anh ta đấu tranh để cứu Indonesia khỏi một nhà lãnh đạo đảng tàn nhẫn.</info>
+</item>
+
+<item>
 <title>Star Wars: Episode IX - The Rise of Skywalker 2019 - Star Wars IX: Skywalker Trỗi Dậy (2020)</title>
 <link>https://upload.anwindy.com/01102020/09/Star.Wars.Episode.IX.The.Rise.of.Skywalker.2019.1080p.BluRay.H264.AAC-RARBG-AnWindy.mkv</link>
 <thumbnail>https://i.imgur.com/BNd9n28.jpg</thumbnail>
