@@ -1,4 +1,12 @@
 <item>
+<title>Sonic the Hedgehog 2020 - Nhím Sonic (2020)</title>
+<link>https://upload.anwindy.com/01102020/07/Sonic.the.Hedgehog.2020.1080p.BluRay.H264.AAC-RARBG-AnWindy.mkv</link>
+<thumbnail>https://i.imgur.com/1goGrxU.jpg</thumbnail>
+<fanart>https://i.imgur.com/1goGrxU.jpg</fanart>
+<info>Bộ phim live-action về chuyến phiêu lưu đầy mạo hiểm, gay cấn cũng không kém phần vui nhộn của chú nhím Sonic nổi tiếng tại Trái Đất.</info>
+</item>
+
+<item>
 <title>Dolittle 2020 - Bác sĩ Dolittle: Chuyến phiêu lưu thần thoại (2020)</title>
 <link>https://upload.anwindy.com/01102020/06/Dolittle.2020.1080p.BluRay.H264.AAC-RARBG-AnWindy.mkv</link>
 <thumbnail>https://i.imgur.com/9NBiUPT.jpg</thumbnail>
@@ -76,14 +84,6 @@
 <thumbnail>https://i.imgur.com/Uz5TGlf.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 <info>Để có được manh mối quan trọng cho một vụ án giết người thảm khốc, cảnh sát Jeong Han Soo đã phải chấp nhận che giấu một vụ giết người khác. Đối thủ của anh là Han Min Tae đã đánh hơi được việc này và điều tra Jeong Han Soo tới cùng.</info>
-</item>
-
-<item>
-<title>Sonic the Hedgehog 2020 - Nhím Sonic (2020)</title>
-<link></link>
-<thumbnail>https://i.imgur.com/1goGrxU.jpg</thumbnail>
-<fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
-<info>Bộ phim live-action về chuyến phiêu lưu đầy mạo hiểm, gay cấn cũng không kém phần vui nhộn của chú nhím Sonic nổi tiếng tại Trái Đất.</info>
 </item>
 
 <item>
