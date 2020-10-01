@@ -1,4 +1,12 @@
 <item>
+<title>The Hunt 2020 - Cuộc Săn Lùng (2020)</title>
+<link>https://upload.anwindy.com/02102020/02/The.Hunt.2020.1080p.BluRay.H264.AAC-RARBG-AnWindy.mkv</link>
+<thumbnail>https://i.imgur.com/7YIlLUA.jpg</thumbnail>
+<fanart>https://i.imgur.com/7YIlLUA.jpg</fanart>
+<info>Phim xoay quanh 12 người lạ tỉnh dậy trong một khu rừng, phát hiện đang bị những kẻ giàu có săn đuổi để giải trí.</info>
+</item>
+
+<item>
 <title>Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn 2020 - Birds of Prey: Cuộc lột xác huy hoàng của Harley Quinn (2020)</title>
 <link>https://upload.anwindy.com/02102020/01/Birds.of.Prey.And.the.Fantabulous.Emancipation.of.One.Harley.Quinn.2020.1080p.BluRay.H264.AAC-RARBG-AnWindy.mkv</link>
 <thumbnail>https://i.imgur.com/hBcJGJK.jpg</thumbnail>
