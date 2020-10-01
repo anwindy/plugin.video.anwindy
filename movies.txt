@@ -7,11 +7,19 @@
 </item>
 
 <item>
-<title>Chasing The Dragon 3 (2020) - Trùm Hương Cảng Ngoại Truyện: Thanh Tra Thập Ức (2020)</title>
+<title>Chasing The Dragon 3 2020 - Trùm Hương Cảng Ngoại Truyện: Thanh Tra Thập Ức (2020)</title>
 <link>https://upload.anwindy.com/01102020/02/Chasing.the.Dragon.3.2020.VIE.WEBDL.1080P.X264.DD2.0-AnWindy.mkv</link>
 <thumbnail>https://i.imgur.com/88ObjXa.jpg</thumbnail>
 <fanart>https://i.imgur.com/88ObjXa.jpg</fanart>
 <info>Hồng Công những năm 60, cảnh sát và xã hội đen cấu kết. Lúc này, Tử Lạc vì khó khăn nên bỏ làm học cảnh sát. Vì phá được trọng án mà đắc tội với cháu thanh tra Long, bị cô lập và chèn ép.</info>
+</item>
+
+<item>
+<title>Ghost Stories 2020 - Những Câu Chuyện MMa Ám (2020)</title>
+<link></link>
+<thumbnail>https://i.imgur.com/jLYs3P7.jpg</thumbnail>
+<fanart>https://i.imgur.com/jLYs3P7.jpg</fanart>
+<info>Tuyển tập bốn phim kinh dị ngắn này đánh dấu sự tái hợp của nhóm đạo diễn Zoya Akhtar, Anurag Kashyap, Dibakar Banerjee và Karan Johar của bộ phim "Chuyện dục vọng".</info>
 </item>
 
 <item>
