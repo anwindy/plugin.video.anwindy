@@ -1,4 +1,12 @@
 <item>
+<title>Go Karts 2020 - Cuộc đua go-kart (2020)</title>
+<link>https://upload.anwindy.com/01102020/08/Go.Karts.2020.1080p.WEBRip.x264.AAC5.1-YTS.MX-AnWindy.mkv</link>
+<thumbnail>https://i.imgur.com/Ns93q6K.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ns93q6K.jpg</fanart>
+<info>Một thiếu niên gan dạ dấn thân vào môn đua xe tốc độ cao go-kart. Cậu được những người bạn tốt hỗ trợ, đồng thời tầm sư học đạo từ một cựu tay đua nóng tính.</info>
+</item>
+
+<item>
 <title>Sonic the Hedgehog 2020 - Nhím Sonic (2020)</title>
 <link>https://upload.anwindy.com/01102020/07/Sonic.the.Hedgehog.2020.1080p.BluRay.H264.AAC-RARBG-AnWindy.mkv</link>
 <thumbnail>https://i.imgur.com/1goGrxU.jpg</thumbnail>
