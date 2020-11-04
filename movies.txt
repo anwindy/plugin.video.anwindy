@@ -1,4 +1,12 @@
 <item>
+<title>Polaroid 2019 - Máy Ảnh Của Quỷ (2019)</title>
+<link>http://filmmd1.keeng.net/video1/2020/10/16/13/45559de2/45559de2-7b19-4a72-a93a-3bcb0affceec_4_.m3u8</link>
+<thumbnail>https://i.imgur.com/5JBghxw.jpg</thumbnail>
+<fanart>https://i.imgur.com/5JBghxw.jpg</fanart>
+<info>Câu chuyện bắt đầu khi Brad - cô nữ sinh trung học đơn độc tìm được một chiếc máy ảnh Polaroid ở tiệm đồ cũ. Từ khi cô dùng đến nó, những điều quái dị bắt đầu lần lượt xảy ra. Quá khứ đen tối của chiếc máy ảnh dần được hé lộ và kinh hoàng hơn, những ai được chụp ảnh đều phải trải qua cái chết đau đớn.</info>
+</item>
+
+<item>
 <title>The Hunt 2020 - Cuộc Săn Lùng (2020)</title>
 <link>https://upload.anwindy.com/02102020/02/The.Hunt.2020.1080p.BluRay.H264.AAC-RARBG-AnWindy.mkv</link>
 <thumbnail>https://i.imgur.com/7YIlLUA.jpg</thumbnail>
