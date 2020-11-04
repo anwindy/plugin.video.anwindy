@@ -1,6 +1,6 @@
 <item>
 <title>VTV1 HD</title>
-<link></link>
+<link>https://vtsstr3.tv24.vn/elive1/_definst_/smil:VTV1_HD.smil/chunklist_w367816389_b2692000.m3u8?uid=u2947494u28474z584x506&mytokenstarttime=1604516436&mytokenendtime=1604523936&mytokenhash=H0_ssSLy0YEqxzGXkNS3LOx7jPkwEKjQ_qVzxNShS8c%3D</link>
 <thumbnail>https://i.imgur.com/XQY8NTB.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
