@@ -1,12 +1,4 @@
 <item>
-<title>200 Pounds Beauty 2017 - Sắc Đẹp Ngàn Cân (2017)</title>
-<link>https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200801/200_pound_beauty_1080p_logofptplay/9edee69d7267b54d6e5a04b4654f685b.smil/chunklist_b2828000.m3u8</link>
-<thumbnail>https://i.imgur.com/2ZUQviq.jpg</thumbnail>
-<fanart>https://i.imgur.com/2ZUQviq.jpg</fanart>
-<info>FPT Play - Phim là một câu chuyện hài hước, lãng mạn về hai cô gái: Jolie (Jolie Phương Trinh) gợi cảm, quyến rũ nhưng có giọng hát rất dở được ra sân khấu thu hút khán giả bằng vẻ đẹp chết người của mình; trong khi đó Hà My (Minh Hằng) mập ú nhưng có giọng hát trời phú phải đứng sau cánh gà để cất lên giọng ca ngọt ngào. Vì vẻ ngoài xấu xí, Hà My bị mọi người đối xử rất hững hờ nhưng cô luôn vô tư cho đến khi Jolie sỉ nhục cô ngay trước mặt người mà cô yêu thầm nhớ trộm là Duy Khang (Rocker Nguyễn). Mọi chuyện vì thế từ đây bắt đầu thay đổi...</info>
-</item>
-
-<item>
 <title>Polaroid 2019 - Máy Ảnh Của Quỷ (2019)</title>
 <link>http://filmmd1.keeng.net/video1/2020/10/16/13/45559de2/45559de2-7b19-4a72-a93a-3bcb0affceec_4_.m3u8</link>
 <thumbnail>https://i.imgur.com/5JBghxw.jpg</thumbnail>
