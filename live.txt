@@ -122,7 +122,7 @@
 
 <item>
 <title>VTC1 HD</title>
-<link>http://media.kythuatvov.vn:1936/live/VTC1.HD/playlist.m3u8</link>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc1_sd.stream_720p/chunklist_w1996085584_tkdG9rZW5oYXNoPW9jMlFnNFBwd1Boc3hyd3BWZ21CQkZxU3NtUFJmZU5xZkpiaG52UXRuWnNWbDk2dU9jd1pWVjFhblFkai1oZEpQTWVnaXJhM0pSQkp3SnRlZFBFMHF3PT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTE2MSZ0b2tlbmVuZHRpbWU9MTYwNDU0MDc2MQ==.m3u8</link>
 <thumbnail>https://i.imgur.com/PKB0lgq.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
@@ -136,7 +136,7 @@
 
 <item>
 <title>VTC3 HD</title>
-<link>http://media.kythuatvov.vn:1936/live/VTC3.HD/playlist.m3u8</link>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc3_sd.stream_720p/chunklist_w1139018278_tkdG9rZW5oYXNoPWFRVnROTldvUDB1WlVkYkdBQ0l2SmZjVFllRUZpcXAyM2lkNTlTODFJel9QU0MxdGJuVkEtemZRUk9ySEJ6Y0ZtMFVSZVhic3drNGpVcXNpaWJHNjhnPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTE2MSZ0b2tlbmVuZHRpbWU9MTYwNDU0MDc2MQ==.m3u8</link>
 <thumbnail>https://i.imgur.com/o0qjJIr.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
@@ -146,6 +146,83 @@
 <link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc4_sd.stream_720p/chunklist_w655317861_tkdG9rZW5oYXNoPWhjR0VmckIxc0VVaVZaR1c3MUc2T2FCaU95aDJVZnMzbDl3S2MwVjMtQjVFcXB4RV8zM0ZnUG43dVE2NXdRQjZIanlEOVVObmt0Tlo4cDNlLXI0aXVnPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTE2MSZ0b2tlbmVuZHRpbWU9MTYwNDU0MDc2MQ==.m3u8</link>
 <thumbnail>https://i.imgur.com/DSjZ6TK.png</thumbnail>
 <fanart>https://i.imgur.com/DSjZ6TK.png</fanart>
+</item>
+
+<item>
+<title>VTC5 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc5_sd.stream_720p/chunklist_w2046787552_tkdG9rZW5oYXNoPUp6VWwtWHlTRWlvTnpkRnNOeWw2ekdabzVoWXJZRHNBeHo3VkNDZDNqZHJxbmVYNGE2SmdkSl8yWnNOYlhwc1RPS2lvUXg2Y3Jza0JQaHpDc2FyZjZRPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTE2MSZ0b2tlbmVuZHRpbWU9MTYwNDU0MDc2MQ==.m3u8</link>
+<thumbnail>https://i.imgur.com/GO5kAPW.png</thumbnail>
+<fanart>https://i.imgur.com/GO5kAPW.png</fanart>
+</item>
+
+<item>
+<title>VTC6 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc6_sd.stream_720p/chunklist_w1718557047_tkdG9rZW5oYXNoPTlaSjJBLVhueHdfWEYySl9fUk5CVC1vMExwY2dacXZOWG9lNzU3YURKSTU4eUZlUTZVam1GLVB6TE53MFFwdjRsMm5sOFkyQnFPQzktZHZTdFlKV2t3PT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTE2MSZ0b2tlbmVuZHRpbWU9MTYwNDU0MDc2MQ==.m3u8</link>
+<thumbnail>https://i.imgur.com/TDi06aZ.png</thumbnail>
+<fanart>https://i.imgur.com/TDi06aZ.png</fanart>
+</item>
+
+<item>
+<title>VTC7 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc7_sd.stream_720p/chunklist_w1224447989_tkdG9rZW5oYXNoPVR4anZEUmY2UjBjcXJrZmVPV1VyQktjdXVKNXV0RklyampwLTNBTGFUZmlHUHVZNHVkSjhXaXdJbTJGRWt0TGY0SWhYOVBlNWNMQmlQQjRnMEo2eHBBPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTE2MSZ0b2tlbmVuZHRpbWU9MTYwNDU0MDc2MQ==.m3u8</link>
+<thumbnail>https://i.imgur.com/G07Ik6m.png</thumbnail>
+<fanart>https://i.imgur.com/G07Ik6m.png</fanart>
+</item>
+
+<item>
+<title>VTC8 HD</title>
+<link>http://42.112.168.176/live/eds/VTC9/sa_hls/VTC9-avc1_2191200=4.m3u8</link>
+<thumbnail>https://i.imgur.com/0iyffnu.png</thumbnail>
+<fanart>https://i.imgur.com/0iyffnu.png</fanart>
+</item>
+
+<item>
+<title>VTC9 HD</title>
+<link>http://42.112.168.176/live/eds/VTC9/sa_hls/VTC9-avc1_2191200=4.m3u8</link>
+<thumbnail>https://i.imgur.com/0iyffnu.png</thumbnail>
+<fanart>https://i.imgur.com/0iyffnu.png</fanart>
+</item>
+
+<item>
+<title>VTC10 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc10_sd.stream_720p/chunklist_w66609210_tkdG9rZW5oYXNoPTRJSFZVRkcwajJqTG4wdzR6WUhVbTFKVlRWSlhiak50dzNRN253RV9nd0pzUUtjalBHTVlMVU5NSWtncG13aWt4RG4yanFickZFY1VNY1Y4dy1uNHJBPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTgxNCZ0b2tlbmVuZHRpbWU9MTYwNDU0MTQxNA==.m3u8</link>
+<thumbnail>https://i.imgur.com/e0BjcKm.png</thumbnail>
+<fanart>https://i.imgur.com/e0BjcKm.png</fanart>
+</item>
+
+<item>
+<title>VTC11 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc12_sd.stream_720p/chunklist_w1815719973_tkdG9rZW5oYXNoPUF1SjNxZ2ozOVc2SGRJNGlzYUlKdEVSOEtEYnd6T2dCTEk3QVpqZ3RfNmVHX3ZCb1hGWl96S3ZPdXZNa0RJeUdFSmE4VXhVdE1aRTAyVmhpVjBQOEdRPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTgxNCZ0b2tlbmVuZHRpbWU9MTYwNDU0MTQxNA==.m3u8</link>
+<thumbnail>https://i.imgur.com/TIpDcXi.png</thumbnail>
+<fanart>https://i.imgur.com/TIpDcXi.png</fanart>
+</item>
+
+<item>
+<title>VTC12 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc12_sd.stream_720p/chunklist_w1815719973_tkdG9rZW5oYXNoPUF1SjNxZ2ozOVc2SGRJNGlzYUlKdEVSOEtEYnd6T2dCTEk3QVpqZ3RfNmVHX3ZCb1hGWl96S3ZPdXZNa0RJeUdFSmE4VXhVdE1aRTAyVmhpVjBQOEdRPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTgxNCZ0b2tlbmVuZHRpbWU9MTYwNDU0MTQxNA==.m3u8</link>
+<thumbnail>https://i.imgur.com/TIpDcXi.png</thumbnail>
+<fanart>https://i.imgur.com/TIpDcXi.png</fanart>
+</item>
+
+<item>
+<title>VTC13 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc13_sd.stream_720p/chunklist_w246584335_tkdG9rZW5oYXNoPWh3UWQxOGxfYW5pMHpVNUxMZTZXSUtPY0xqaGh5QTNvRERfNHFZc3BnUVpGUDJSdWd2bzJTMHlZc0p5V3NNNGZvVnUtXzl5UjVJd21oMFR5MFFuS0dnPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTgxNCZ0b2tlbmVuZHRpbWU9MTYwNDU0MTQxNA==.m3u8</link>
+<thumbnail>https://i.imgur.com/7HSJzLg.png</thumbnail>
+<fanart>https://i.imgur.com/7HSJzLg.png</fanart>
+</item>
+
+<item>
+<title>VTC14 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc14_sd.stream_720p/chunklist_w953831870_tkdG9rZW5oYXNoPS1pQTJGVEhmNXRrV001R3NSdmRGUk14cENmd2dpUFpwbHJiSzVaWDQ5RFFSM0dUTXA2UC1FVE5oS0VIcG04ZlBDbVpJOWFTS1o0Y1pUTWRvOERkQzZBPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTgxNCZ0b2tlbmVuZHRpbWU9MTYwNDU0MTQxNA==.m3u8</link>
+<thumbnail>https://i.imgur.com/2CvKeug.png</thumbnail>
+<fanart>https://i.imgur.com/2CvKeug.png</fanart>
+</item>
+
+<item>
+<title>VTC16 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc16_sd.stream_720p/chunklist_w1263701135_tkdG9rZW5oYXNoPXNxMXFuYlpTQXAyNWFRZVNlZFZVMmFFdkhYbElwcGNHNmR0ZkpGeE1jN043dUtBOE8xeGhaNmxKUjdmWVp1Tk1Ccng0SF9KT05mZnl2U3B3N1pENFFnPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTgxNCZ0b2tlbmVuZHRpbWU9MTYwNDU0MTQxNA==.m3u8</link>
+<thumbnail>https://i.imgur.com/kvF1Rum.png</thumbnail>
+<fanart>https://i.imgur.com/kvF1Rum.png</fanart>
 </item>
 
 <item>
