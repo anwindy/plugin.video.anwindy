@@ -7,60 +7,66 @@
 
 <item>
 <title>VTV2 HD</title>
-<link></link>
+<link>https://vtvgo-livewebs.vtvdigital.vn/d58a34b97645a6f1426750c8290038f8/1604531732123/vtv2/vtv2@high.m3u8</link>
 <thumbnail>https://i.imgur.com/taeZ0zp.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV3 HD</title>
-<link></link>
+<link>https://vtvgo-livewebs.vtvdigital.vn/167c967c9f7140c6142784d94f06e93a/1604531801440/vtv3/vtv3@high.m3u8</link>
 <thumbnail>https://i.imgur.com/Bkkg2VD.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV4 HD</title>
-<link></link>
+<link>https://vtvgo-livewebs.vtvdigital.vn/d2708d15fa2ddf1bede8094f84b69ef4/1604531816948/vtv4/vtv4@high.m3u8</link>
 <thumbnail>https://i.imgur.com/sE19fWJ.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV5 HD</title>
-<link></link>
+<link>https://vtvgo-livewebs.vtvdigital.vn/381e2f6c520cc74bf591f81162e7c9dc/1604531845880/vtv5/vtv5@high.m3u8</link>
 <thumbnail>https://i.imgur.com/jXFdE9q.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
+<title>VTV5 Tây Nam Bộ HD</title>
+<link>https://vtvgo-livewebs.vtvdigital.vn/023d6b1aba3d347806d611ab356ce936/1604532116531/vtv5tnb/vtv5tnb@high.m3u8</link>
+<thumbnail>https://i.imgur.com/HcT8jP0.png</thumbnail>
+<fanart>https://i.imgur.com/HcT8jP0.png</fanart>
+</item>
+
+<item>
 <title>VTV6 HD</title>
-<link></link>
+<link>https://vtvgo-livewebs.vtvdigital.vn/4538d29ff1285f66ca491e59dbf0c2e6/1604531866987/vtv6/vtv6@high.m3u8</link>
 <thumbnail>https://i.imgur.com/H4YUFlR.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV7 HD</title>
-<link></link>
+<link>https://vtvgo-livewebs.vtvdigital.vn/ad828e89d98bcb5e5bcc2adc3274c456/1604531885008/vtv7/vtv7@high.m3u8</link>
 <thumbnail>https://i.imgur.com/RUyQCyw.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV8 HD</title>
-<link></link>
+<link>https://vtvgo-livewebs.vtvdigital.vn/d7eb784653288b41e3d387e9931b2edf/1604531903191/vtv8/vtv8@high.m3u8</link>
 <thumbnail>https://i.imgur.com/Nu9SN7C.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
 
 <item>
 <title>VTV9 HD</title>
-<link></link>
+<link>https://vtvgo-livewebs.vtvdigital.vn/a1b9f5a3a5b748c2e80aa690419e4503/1604531923705/vtv9/vtv9@high.m3u8</link>
 <thumbnail>https://i.imgur.com/5jRUR9N.jpg</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
-
 
 <item>
 <title>Vnews</title>
