@@ -129,7 +129,7 @@
 
 <item>
 <title>VTC2 HD</title>
-<link></link>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc2_sd.stream_720p/chunklist_w733197709_tkdG9rZW5oYXNoPVFZUHZTNHdaT1ZUUlFBWnBKekZWQWRKREpGY1dzMGxJQVVHWjRGWk9obUdpN0RRZURmM1REWE9oZEozZHBuRGJtWWoxMFUxTXpSYm9KbXRibko4ZkxnPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTE2MSZ0b2tlbmVuZHRpbWU9MTYwNDU0MDc2MQ==.m3u8</link>
 <thumbnail>https://i.imgur.com/xLEiJfk.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
 </item>
@@ -139,6 +139,13 @@
 <link>http://media.kythuatvov.vn:1936/live/VTC3.HD/playlist.m3u8</link>
 <thumbnail>https://i.imgur.com/o0qjJIr.png</thumbnail>
 <fanart>https://i.imgur.com/mIM6HOa.jpg</fanart>
+</item>
+
+<item>
+<title>VTC4 HD</title>
+<link>https://vcdn3.vtc.gov.vn:8443/encrypt/vtc4_sd.stream_720p/chunklist_w655317861_tkdG9rZW5oYXNoPWhjR0VmckIxc0VVaVZaR1c3MUc2T2FCaU95aDJVZnMzbDl3S2MwVjMtQjVFcXB4RV8zM0ZnUG43dVE2NXdRQjZIanlEOVVObmt0Tlo4cDNlLXI0aXVnPT0mdG9rZW5zdGFydHRpbWU9MTYwNDUxOTE2MSZ0b2tlbmVuZHRpbWU9MTYwNDU0MDc2MQ==.m3u8</link>
+<thumbnail>https://i.imgur.com/DSjZ6TK.png</thumbnail>
+<fanart>https://i.imgur.com/DSjZ6TK.png</fanart>
 </item>
 
 <item>
