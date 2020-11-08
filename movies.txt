@@ -1,4 +1,12 @@
 <item>
+<title>Mata Batin 2017 - Máy Ảnh Của Quỷ (2019)</title>
+<link>http://kodi.anwindy.com/Mata%20Batin%202017%20ViE%201080p%20NF%20WEB-DL%20DDP5.1%20x264-NTG.mkv</link>
+<thumbnail>https://i.imgur.com/4XOw8fc.jpg</thumbnail>
+<fanart>https://i.imgur.com/4XOw8fc.jpg</fanart>
+<info>Khi cô em gái nói có thể thấy người chết, Alia gặp một bà đồng, người giúp cô mở ra con mắt thứ ba để thấy những hồn ma đầy lòng thù hận đang ám ngôi nhà thuở bé của họ.</info>
+</item>
+
+<item>
 <title>Polaroid 2019 - Máy Ảnh Của Quỷ (2019)</title>
 <link>http://filmmd1.keeng.net/video1/2020/10/16/13/45559de2/45559de2-7b19-4a72-a93a-3bcb0affceec_4_.m3u8</link>
 <thumbnail>https://i.imgur.com/5JBghxw.jpg</thumbnail>
