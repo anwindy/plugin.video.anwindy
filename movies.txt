@@ -1,4 +1,20 @@
 <item>
+<title>Tears of No Regret 2020</title>
+<link>http://kodi.anwindy.com/Tears%20of%20No%20Regret%202020%20ViE%201080p%20HDRip%20DD2.0%20H.264%20(Thuyet%20Minh%20-%20Sub%20Viet).mkv</link>
+<thumbnail>https://i.imgur.com/PE12BYt.jpg</thumbnail>
+<fanart>https://i.imgur.com/PE12BYt.jpg</fanart>
+<info>Đấu Chiến Thắng Phật: Nước Mắt Đại Thánh kể về hai thầy trò Đường Tăng cùng hành trình vượt qua cửa ải nhân gian của Ngộ Không. Bắt đầu từ khi sư phụ cứu Ngộ Không ra khỏi Ngũ Hành Sơn, cả hai gặp “ngôi sao may mắn”, và cô ấy đã phải lòng Ngộ Không. Trải qua mọi khó khăn và thử thách, nước mắt của đại thánh đã làm rung động trời đất, chiến thắng tất cả.</info>
+</item>
+
+<item>
+<title>Monkey King 2020</title>
+<link>http://kodi.anwindy.com/Monkey.King.2020.ViE.1080p.iQIYI.WEB-DL.AAC2.0.H.264-tG1R0.mkv</link>
+<thumbnail>https://i.imgur.com/qKKWxMt.png</thumbnail>
+<fanart>https://i.imgur.com/qKKWxMt.png</fanart>
+<info>Tôn Ngộ Không trúng phải quỷ kế của lão quái Hoàng Mi, bị giam giữ đồng thời mất toàn bộ pháp lực. Lão quái Hoàng Mi xây dựng một đội quân hùng mạnh, thiết lập Đấu trường sinh tử, dùng bùn đất tạo ra Lục Nhĩ Mỹ Hầu để thay thế cho Tôn Ngộ Không thật. Tôn Ngộ Không bị áp bức rơi vào tuyệt vọng. Một kẻ quen chiến đấu đơn độc bị ép phải liên minh với các yêu quái để tự cứu mình. Sau hết thất bại này đến thất bại khác đã ngộ ra được ý nghĩa thực sự của hai chữ "Đại Thánh".</info>
+</item>
+
+<item>
 <title>Mata Batin 2 2019</title>
 <link>http://kodi.anwindy.com/The.3rd.Eye.2.2019.ViE.1080p.NF.WEBRip.DD5.1.x264-Ao.mkv</link>
 <thumbnail>https://i.imgur.com/B1BawNp.jpg</thumbnail>
