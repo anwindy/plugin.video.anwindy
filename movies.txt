@@ -1,5 +1,13 @@
 <item>
-<title>Mata Batin 2017 - Máy Ảnh Của Quỷ (2019)</title>
+<title>Mata Batin 2 2019</title>
+<link>http://kodi.anwindy.com/The.3rd.Eye.2.2019.ViE.1080p.NF.WEBRip.DD5.1.x264-Ao.mkv</link>
+<thumbnail>https://i.imgur.com/B1BawNp.jpg</thumbnail>
+<fanart>https://i.imgur.com/B1BawNp.jpg</fanart>
+<info>Khi làm ở cô nhi viện, Alia gặp cô bé tuổi teen Nadia, người nghe thấy giọng nói kỳ lạ từ bức tường. Hai người cố gắng làm rõ nguồn cơn và chuyện trở nên vô cùng tồi tệ.</info>
+</item>
+
+<item>
+<title>Mata Batin 2017</title>
 <link>http://kodi.anwindy.com/Mata%20Batin%202017%20ViE%201080p%20NF%20WEB-DL%20DDP5.1%20x264-NTG.mkv</link>
 <thumbnail>https://i.imgur.com/4XOw8fc.jpg</thumbnail>
 <fanart>https://i.imgur.com/4XOw8fc.jpg</fanart>
