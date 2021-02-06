@@ -1,5 +1,13 @@
 <item>
-<title>Cuộc Phiêu Lưu Của Nhà Croods - The Croods 2013</title>
+<title>Gia đình Croods: Kỷ nguyên mới - The Croods: A New Age 2020</title>
+<link>https://ia801406.us.archive.org/26/items/2850386-vie/2850386-VIE.mkv</link>
+<thumbnail>https://i.imgur.com/25o2Qig.png</thumbnail>
+<fanart>https://i.imgur.com/25o2Qig.png</fanart>
+<info>Chuyến phiêu lưu lần này của gia đình Croods phải đối mặt với sự thách thức đến từ gia đình Bettermans - những kẻ tự cho rằng bản thân là những cá thể được tiến hóa vượt trội hơn. Liệu kết quả của cuộc đối đầu này sẽ ra sao?</info>
+</item>
+
+<item>
+<title>Gia đình Croods - The Croods 2013</title>
 <link>https://ia601504.us.archive.org/33/items/0481499-vie/0481499-VIE.mkv</link>
 <thumbnail>https://i.imgur.com/yPKaRcV.jpg</thumbnail>
 <fanart>https://i.imgur.com/yPKaRcV.jpg</fanart>
