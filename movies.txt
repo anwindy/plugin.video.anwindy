@@ -13,3 +13,12 @@
 <fanart>https://i.imgur.com/yPKaRcV.jpg</fanart>
 <info>Sau cuộc thay đổi địa chấn nhà Croods khám phá ra một thế giới đáng kinh ngạc hoàn toàn mới với những sinh vật tuyệt vời. Hành trình của nhà Croods đi qua những mảnh đất với những cảnh quan lung linh, ngoạn mục, như đưa họ đến một thế giới khác. Nhưng mọi chuyện bỗng trở nên phức tạp khi gia đình của Grug - mà thực ra là cô con gái lớn của anh - rơi vào lưới tình của một chàng du mục (Reynolds) mà họ gặp trên chuyến hành trình cam go. Công cuộc tìm kiếm một "ngày mai" của kẻ lạ mặt giáo hoạt lắm tưởng tượng này lại xung đột với niềm tin của Grug vào những phong tục của quá khứ.</info>
 </item>
+
+
+<item>
+<title>Gia đình Croods - The Croods 2013</title>
+<link>https://raw.githubusercontent.com/Ancktv97x/plugin.video.anwindy/master/Abyssal%20Spider%20ViE%20720P%20WEBDL%20H264%20DD2.0.mkv.strm</link>
+<thumbnail>https://i.imgur.com/yPKaRcV.jpg</thumbnail>
+<fanart>https://i.imgur.com/yPKaRcV.jpg</fanart>
+<info>Sau cuộc thay đổi địa chấn nhà Croods khám phá ra một thế giới đáng kinh ngạc hoàn toàn mới với những sinh vật tuyệt vời. Hành trình của nhà Croods đi qua những mảnh đất với những cảnh quan lung linh, ngoạn mục, như đưa họ đến một thế giới khác. Nhưng mọi chuyện bỗng trở nên phức tạp khi gia đình của Grug - mà thực ra là cô con gái lớn của anh - rơi vào lưới tình của một chàng du mục (Reynolds) mà họ gặp trên chuyến hành trình cam go. Công cuộc tìm kiếm một "ngày mai" của kẻ lạ mặt giáo hoạt lắm tưởng tượng này lại xung đột với niềm tin của Grug vào những phong tục của quá khứ.</info>
+</item>
